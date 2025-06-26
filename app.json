@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~UndyCYzb#B2mDE1fLPrKGersxUFCCOi-5uT1S_4NOWUxrYWm9pjI",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "HENRY-X" 
         
     },
      "PREFIX": {
@@ -27,7 +27,7 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"Public",
         "required": true  
         
    },
@@ -40,13 +40,13 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "9235741670"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Henry Badmash",
       "required": true
     }
 
